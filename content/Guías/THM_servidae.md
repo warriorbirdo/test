@@ -44,9 +44,12 @@ Elastic Stack (anteriormente conocido como ELK Stack) es un conjunto de componen
 *Se puede ver subrayado que la biblioteca open-source en la que se basa Elasticsearch es Apache Lucene.*
 
 ![[task2ans1.png]]
-```flag
-Apache Lucene
-```
+
+>[!todo]- Revelar respuesta
+>```flag
+>Apache Lucene
+>```
+
 **Which component of the Elastic Stack would you use to perform advanced filtering and processing of data before it gets stored?**
 
 *El encargado de filtrar y procesar los datos antes de ser guardados es logstash.*
@@ -54,9 +57,10 @@ Apache Lucene
 
 ![[task2ans2.png]]
 
-```flag
-Logstash
-```
+>[!todo]- Revelar respuesta
+>```flag
+>Logstash
+>```
 
 # Task 3. A Compromised Workstation: Scenario
 # Task 4. Kibana: Basics
@@ -66,9 +70,11 @@ Logstash
 
 *Explicación*
 
-```flag
-920
-```
+>[!todo]- Revelar respuesta
+>```flag
+>920
+>```
+
 # Task 5. Kibana: Fields and Values
 ## Respuestas
 
@@ -76,25 +82,29 @@ Logstash
 
 *Explicación*
 
-```flag
-84.237.252.156
-```
+>[!todo]- Revelar respuesta
+>```flag
+>84.237.252.156
+>```
 
 **Use an IP address lookup tool (such as iplocation.io). What country does this IP address originate from?**
 
 *Explicación*
 
-```flag
-Latvia
-```
+>[!todo]- Revelar respuesta
+>```flag
+>Latvia
+>```
 
 **Which process name is running the most frequently on the compromised workstation?**
 
 *Explicación*
 
-```flag
-curl.exe
-```
+>[!todo]- Revelar respuesta
+>```flag
+>curl.exe
+>```
+
 # Task 6. Kibana: Sorting and Filtering
 ## Respuestas
 
@@ -102,17 +112,20 @@ curl.exe
 
 *Explicación*
 
-```flag
-6712
-```
+>[!todo]- Revelar respuesta
+>```flag
+>6712
+>```
 
 **What was the parent process name of the process that spawned powershell.exe?**
 
 *Explicación*
 
-```flag
-explorer.exe
-```
+>[!todo]- Revelar respuesta
+>```flag
+>explorer.exe
+>```
+
 # Task 7. Indicators of Compromise: Discovery
 ## Respuestas
 
@@ -120,17 +133,20 @@ explorer.exe
 
 *Explicación*
 
-```flag
-evilparrot.thm
-```
+>[!todo]- Revelar respuesta
+>```flag
+>evilparrot.thm
+>```
 
 **What is the full path of the HKEY_LOCAL_MACHINE registry entry that was queried?**
 
 *Explicación*
 
-```flag
-HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\Installer
-```
+>[!todo]- Revelar respuesta
+>```flag
+>HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\Installer
+>```
+
 # Task 8. Indicators of Compromise: Privilege Escalation
 ## Respuestas
 
@@ -138,9 +154,11 @@ HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\Installer
 
 *Explicación*
 
-```flag
-adminshell.msi
-```
+>[!todo]- Revelar respuesta
+>```flag
+>adminshell.msi
+>```
+
 # Task 9. Indicators of Compromise: Persistence
 ## Respuestas
 
@@ -148,25 +166,29 @@ adminshell.msi
 
 *Explicación*
 
-```flag
-backdoor
-```
+>[!todo]- Revelar respuesta
+>```flag
+>backdoor
+>```
 
 **What is the flag sent via cURL requests to the evilparrot.thm server?**
 
 *Explicación*
 
-```flag
-THM{C4N_y0U_h34r_m3}
-```
+>[!todo]- Revelar respuesta
+>```flag
+>THM{C4N_y0U_h34r_m3}
+>```
 
 **What is the name of the registry value that the attacker added?**
 
 *Explicación*
 
-```flag
-BackdoorShell
-```
+>[!todo]- Revelar respuesta
+>```flag
+>BackdoorShell
+>```
+
 # Task 10. Indicators of Compromise: Lateral Movement
 ## Respuestas
 
@@ -174,31 +196,36 @@ BackdoorShell
 
 *Explicación*
 
-```flag
-Password123!
-```
+>[!todo]- Revelar respuesta
+>```flag
+>Password123!
+>```
 
 **What flag was included within the HTTP requests during the attacker's successful logins?**
 
 *Explicación*
 
-```flag
-THM{1m_1N_Y0ur_P4YR0LL}
-```
+>[!todo]- Revelar respuesta
+>```flag
+>THM{1m_1N_Y0ur_P4YR0LL}
+>```
 
 **What was the session cookie value that the attacker included in the cURL request at 18:58:08.001?**
 
 *Explicación*
 
-```flag
-dt5qhq423goknmq269rg1tal1a
-```
+>[!todo]- Revelar respuesta
+>```flag
+>dt5qhq423goknmq269rg1tal1a
+>```
 
 **What is the name of the sensitive file that the attacker downloaded?**
 
 *Explicación*
 
-```flag
-bank-details.csv
-```
+>[!todo]- Revelar respuesta
+>```flag
+>bank-details.csv
+>```
+
 # Task 11. Conclusion
