@@ -1,6 +1,6 @@
 ---
 title: git
-draft: "false"
+draft: "true"
 tags:
   - Herramienta
   - git

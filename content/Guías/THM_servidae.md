@@ -36,14 +36,14 @@ Elastic Stack (anteriormente conocido como ELK Stack) es un conjunto de componen
 	- **Auditbeat.** Datos de auditoría de Linux.
 	- **Heartbeat.** Monitorización de conexión.
 
-![[elastic_stack.png]]
+![[THM_servidae__elastic_stack.png]]
 ## Respuestas
 
 **What is the name of the open-source search engine library that Elasticsearch is built on?**
 
 *Se puede ver subrayado que la biblioteca open-source en la que se basa Elasticsearch es Apache Lucene.*
 
-![[task2ans1.png]]
+![[THM_servidae__task2ans1.png]]
 
 >[!todo]- Revelar respuesta
 >```flag
@@ -55,7 +55,7 @@ Elastic Stack (anteriormente conocido como ELK Stack) es un conjunto de componen
 *El encargado de filtrar y procesar los datos antes de ser guardados es logstash.*
 
 
-![[task2ans2.png]]
+![[THM_servidae__task2ans2.png]]
 
 >[!todo]- Revelar respuesta
 >```flag
