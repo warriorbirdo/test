@@ -1,3 +1,11 @@
+---
+title: git
+draft: "false"
+tags:
+  - Herramienta
+  - git
+---
+
 ## **Guía de uso de git**
 
 #### Configuración inicial
